@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Real-Time Weather App is a simple web application that allows users to search for the current weather in any city. It utilizes a weather API to fetch and display live weather data, including temperature, humidity, and weather conditions.
+The Real-Time Weather App is a simple web application that allows users to search for the current weather in any city. It utilises a weather API to fetch and display live weather data, including temperature, humidity, and weather conditions.
 
 ## Features
 
